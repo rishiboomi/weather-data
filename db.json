@@ -1,0 +1,22 @@
+[
+  {
+    "city": "New York",
+    "temperature_celsius": 25.3
+  },
+  {
+    "city": "London",
+    "temperature_celsius": 18.7
+  },
+  {
+    "city": "Tokyo",
+    "temperature_celsius": 30.1
+  },
+  {
+    "city": "Sydney",
+    "temperature_celsius": 20.5
+  },
+  {
+    "city": "Cairo",
+    "temperature_celsius": 35.0
+  }
+]
